@@ -28,7 +28,7 @@ bl_info = {
         "[Cmd+Shft+F1] User Prefs -> Input -> Window -> Show Shortcut Keys",
     "description":
         "Shows the currently active and enabled shortcuts in a popup.",
-    "wiki_url": "http://blenderartists.org/forum/showthread.php?347589",
+    "wiki_url": "https://github.com/Yardie-/show_shortcuts/wiki",
     "tracker_url": "http://blenderartists.org/forum/showthread.php?347589",
     "category": "System"}
 import bpy
