@@ -46,7 +46,7 @@ from bpy.app.translations import pgettext_tip as translate_
 # Last dev update
 # 13 October 2014 7:37:44 AM AWST
 # import pprint
-DEBUG = True
+DEBUG = False
 # TODO
 # Make a menu to show list of grouped keymaps
 # Show Global shortcuts like Alt + A Seems to work everywhere
